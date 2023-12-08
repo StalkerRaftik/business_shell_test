@@ -72,9 +72,3 @@
 2. Vue Router
    1. https://router.vuejs.org/guide/
 
-
-1. React
-   1. https://react.dev/learn
-   2. https://www.youtube.com/watch?v=GNrdg3PzpJQ
-2. React Router
-   1. https://reactrouter.com/en/main
